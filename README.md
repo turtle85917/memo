@@ -39,7 +39,7 @@ knex는 mysql이나 sqlite3을 지원한다.
 mysql은 [이부분](https://github.com/turtle85917/memo/blob/e9f76637c8d1a0a346cd0d3f78da0fc5779e8525/sqlite3(knex)/memo.js#L2)을
 
 ```js
-const db = knex({
+db = knex({
   client: 'mysql',
   connection: {
     host : 'HOST',
