@@ -6,6 +6,7 @@
 -------------------------------------------------
 
 [**quick.db**](https://www.npmjs.com/package/quick.db)
+[**knex**](https://www.npmjs.com/package/knex)
 
 -------------------------------------------------
 ```
