@@ -51,3 +51,17 @@ db = knex({
 ```
 
 라고 수정한다. (HOST, USER, PASSWORD, DATABASE는 각각 mysql에 host, user, password, database로 수정한다.)
+
+
+
+
+
+
+
+
+
+
+
+실행 안 된다고 ~~짜증~~ 부리지 마시고 이슈 넣어주세요
+
+~~(테스트 안 해보고 )~~
