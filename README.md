@@ -35,7 +35,7 @@ Knex 유의점
 -------------------------------------------------
 knex는 mysql이나 sqlite3을 지원한다.
 만약 sqlite3을 쓸거라면 .env를 열어서 데이터베이스(\*.db, \*.sqlite, \*.sqlite3) 파일 위치를 넣는다.
-mysql은
+mysql은 [이부분](https://github.com/turtle85917/memo/blob/e9f76637c8d1a0a346cd0d3f78da0fc5779e8525/sqlite3(knex)/memo.js#L2)을
 
 ```js
 const db = knex({
